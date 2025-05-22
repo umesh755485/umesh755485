@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [samareddy9000@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 
+<br>
+
 🛠️ Skills & Technologies:-
 
 *Languages: JavaScript, Python, SQL
