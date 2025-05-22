@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 🛠️ Skills & Technologies:-
 
-*Languages: JavaScript, Python, SQL
+* Languages: JavaScript, Python, SQL
    
-*Data & Analytics: Power BI, MySQL, MongoDB
+* Data & Analytics: Power BI, MySQL, MongoDB
   
-*Tools: Git & GitHub, VS Code, Postman
+* Tools: Git & GitHub, VS Code, Postman
 
