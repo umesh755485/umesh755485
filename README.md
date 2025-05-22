@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in [ parul university](https://paruluniversity.ac.in/)
-- 
+  
 - 🌱 I’m currently learning Power-
 
 - 💬 Ask me about MYSQL,POWER-BI,EXCEL
-- 
+  
 - 📫 How to reach me: [samareddy9000@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 
