@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Power-Bi
 - 💬 Ask me about MYSQL,POWER-BI,EXCEL
 - 📫 How to reach me: [samareddy9000@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
