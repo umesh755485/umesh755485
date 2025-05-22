@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [samareddy9000@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 
+🛠️ Skills & Technologies:-
+    *Languages: JavaScript, Python, SQL
+    *Frameworks: React, Node.js, Express
+    *Data & Analytics: Power BI, MySQL, MongoDB
+    *Tools: Git & GitHub, VS Code, Postman
+
