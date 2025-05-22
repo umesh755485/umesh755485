@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in  parul university
+- 🔭 I’m currently studying in [ parul university](https://paruluniversity.ac.in/)
 - 🌱 I’m currently learning Power-Bi
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
