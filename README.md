@@ -31,11 +31,10 @@ Languages & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right:15px;" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:15px;" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:15px;" alt="CSS3" />
-  <img src="hicons8-excel-48.png" width="40" style="margin-right:15px;" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="40" style="margin-right:15px;" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="40" style="margin-right:15px;" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
-
 
 
 
