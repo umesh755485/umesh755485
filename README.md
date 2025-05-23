@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 **LeetCode:**  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/umesh_sama755485/)
 
-**Whatsapp**
+**Whatsapp:**
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919000438748)
 
 
