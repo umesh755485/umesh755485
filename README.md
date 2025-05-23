@@ -2,7 +2,10 @@
 
 
 <h1>🚀 About Me:- </h1>
-* Hello! I’m Sama Umesh Reddy, a passionate DATA ANALYST and tech enthusiast from Khammam, Telangana. I love building projects, solving problems, and learning new technologies. My interests include data analytics, web development, and exploring innovative solutions.
+<p>Hello! I’m <b>Sama Umesh Reddy</b>, a passionate <i>DATA ANALYST</i> and tech enthusiast from Khammam, Telangana.</p>
+<p>I love building projects, solving problems, and learning new technologies.</p>
+<p>My interests include data analytics, web development, and exploring innovative solutions.</p>
+
 
 
 
