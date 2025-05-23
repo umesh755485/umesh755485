@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 * Tools: Git & GitHub, VS Code, Postman
 
-Languages & Tools
+## Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right:15px;" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right:15px;" alt="Python" />
