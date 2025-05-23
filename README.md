@@ -39,11 +39,17 @@ Languages & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
- * Let’s Stay Connected:-
+## Let’s Stay Connected
 
+**LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sama-umesh-reddy)
+
+**Twitter:**  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SamaReddy15)
+
+**Instagram:**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/umesh_sama)
+
 
 
 
