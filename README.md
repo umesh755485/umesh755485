@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 **Instagram:**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/umesh_sama)
 
+**LeetCode:**  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/umesh_sama755485/)
+
+
 
 
 
