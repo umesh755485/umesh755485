@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in [ parul university](https://paruluniversity.ac.in/)
   
-- 🌱 I’m currently learning Power-
+- 🌱 I’m currently learning Power-Bi
 
 - 💬 Ask me about MYSQL,POWER-BI,EXCEL
   
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 🛠️ Skills & Technologies:-
 
-* Languages: JavaScript, Python, SQL
+* Languages: JavaScript, Python, SQL, Java
    
-* Data & Analytics: Power BI, MySQL, MongoDB
+* Data & Analytics: Power BI, MySQL, MongoDB, Pandas, Numpy, Matplotlib
   
-* Tools: Git & GitHub, VS Code, Postman
+* Tools: Git & GitHub, VS Code, Pycharm
 
 ## Languages & Tools
 <p align="center">
