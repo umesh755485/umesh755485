@@ -1,4 +1,4 @@
-![Banner](./assets/Black%20&%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![Banner](./assets/Black-White-Modern-Minimalist-Data-Analyst-LinkedIn-Banner.png)
 
 
 🚀 About Me:-
