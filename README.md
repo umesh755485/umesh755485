@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="asserts/icons8-discord-new-48.png" width="40" style="margin-right:15px;" alt="Discord" />
   <img src="asserts/icons8-pandas-48.png" width="40" style="margin-right:15px;" alt="Pandas" />
   <img src="asserts/icons8-numpy-48.png" width="40" style="margin-right:15px;" alt="numpy" />
+   <img src="asserts/icons8-tensorflow-48.png" width="40" style="margin-right:15px;" alt="tensorflow" />
   <img src="asserts/icons8-video-editing.gif" width="40" style="margin-right:15px;" alt="video-editing" />
   <img src="asserts/icons8-streamlit-48.png" width="40" style="margin-right:15px;" alt="streamlit" />
 </p>
