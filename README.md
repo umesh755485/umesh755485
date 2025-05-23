@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="asserts/icons8-excel-48.png" width="40" style="margin-right:15px;" alt="Excel" />
   <img src="asserts/icons8-power-bi-logo-48.png" width="40" style="margin-right:15px;" alt="Power BI" />
   <img src="asserts/icons8-github-logo-64.png" width="40" alt="GitHub" />
-  <img src="asserts/icons8-power-bi-logo-48.png" width="40" style="margin-right:15px;" alt="Vscode" />
+  <img src="asserts/icons8-visual-studio-64.png" width="40" style="margin-right:15px;" alt="Vscode" />
   <img src="asserts/icons8-power-bi-logo-48.png" width="40" style="margin-right:15px;" alt="Discord" />
 </p>
 
