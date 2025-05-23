@@ -41,6 +41,13 @@ Languages & Tools
 
 
 
+[LinkedIn](https://www.linkedin.com/in/sama-umesh-reddy)
+[Twitter](https://twitter.com/SamaReddy15)
+[Instagram](https://www.instagram.com/umesh_sama)
+
+
+
+
 
 
 
