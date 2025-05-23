@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:15px;" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:15px;" alt="CSS3" />
   <img src="asserts/icons8-excel-48.png" width="40" style="margin-right:15px;" alt="Excel" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="40" style="margin-right:15px;" alt="Power BI" />
+  <img src="asserts/icons8-power-bi-logo-48.png" width="40" style="margin-right:15px;" alt="Power BI" />
   <img src="asserts/icons8-github-logo-64.png" width="40" alt="GitHub" />
 </p>
 
