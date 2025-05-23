@@ -1,7 +1,7 @@
 ![Banner](asserts/Black-White-Modern-Minimalist-Data-Analyst-LinkedIn-Banner.png)
 
 
-🚀 About Me:-
+<h1>🚀 About Me:- </h1>
 * Hello! I’m Sama Umesh Reddy, a passionate DATA ANALYST and tech enthusiast from Khammam, Telangana. I love building projects, solving problems, and learning new technologies. My interests include data analytics, web development, and exploring innovative solutions.
 
 
