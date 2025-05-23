@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right:15px;" alt="MySQL" />
+  <img src="asserts/icons8-mongodb-48.png" width="40" style="margin-right:15px;" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right:15px;" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right:15px;" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:15px;" alt="HTML5" />
@@ -41,13 +42,11 @@ Here are some ideas to get you started:
   <img src="asserts/icons8-power-bi-logo-48.png" width="40" style="margin-right:15px;" alt="Power BI" />
   <img src="asserts/icons8-github-logo-64.png" width="40" alt="GitHub" />
   <img src="asserts/icons8-visual-studio-64.png" width="40" style="margin-right:15px;" alt="Vscode" />
+  <img src="asserts/icons8-pycharm-48.png" width="40" style="margin-right:15px;" alt="pycharm" />
   <img src="asserts/icons8-discord-new-48.png" width="40" style="margin-right:15px;" alt="Discord" />
   <img src="asserts/icons8-pandas-48.png" width="40" style="margin-right:15px;" alt="Pandas" />
   <img src="asserts/icons8-numpy-48.png" width="40" style="margin-right:15px;" alt="numpy" />
   <img src="asserts/icons8-video-editing.gif" width="40" style="margin-right:15px;" alt="video-editing" />
-  
-
-
 </p>
 
 ## Let’s Stay Connected
