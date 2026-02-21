@@ -69,7 +69,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" alt="Fire" width="40" height="40" />
 </p>
 
----
 
 
 ## Let’s Stay Connected
