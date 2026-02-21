@@ -54,21 +54,26 @@ Here are some ideas to get you started:
 
 
 
-## 🏮 My Shinobi Metrics 
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umesh755485&show_icons=true&theme=copper&include_all_commits=true&count_private=true&hide=stars,issues" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh755485&layout=compact&theme=gotham&bg_color=3d2b1f&title_color=d4a373&text_color=fefae0" />
+## 🏮 SHINOBI CODING STATS 🏮
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh755485&theme=revert&background=3d2b1f&ring=d4a373&fire=ff4500&currStreakNum=ff4500&sideLabels=fefae0" />
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=umesh755485&show_icons=true&theme=copper&include_all_commits=true&count_private=true&hide=stars,issues" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh755485&layout=compact&theme=gotham&bg_color=3d2b1f&title_color=d4a373&text_color=fefae0" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh755485&theme=revert&background=3d2b1f&ring=d4a373&fire=ff4500&currStreakNum=ff4500&sideLabels=fefae0" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" alt="Fire" width="40" height="40" />
-  <b> IGNITING THE CODE </b> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" alt="Fire" width="40" height="40" />
-</p>
+<br />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="35" /> 
+<kbd><b> IGNITING THE CODE </b></kbd> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="35" />
+
+<br />
+
+---
+</div>
 
 
 ## Let’s Stay Connected
