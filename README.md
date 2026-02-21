@@ -61,6 +61,18 @@ Here are some ideas to get you started:
 
 
 
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umesh755485&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh755485&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh755485&theme=tokyonight" />
+</p>
+
+---
+
+
+
 
 
 
